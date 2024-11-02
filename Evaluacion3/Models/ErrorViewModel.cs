@@ -1,6 +1,6 @@
 namespace Evaluacion3.Models
 {
-    public class ErrorViewModel
+    public class ErrorViewModelxxx
     {
         public string? RequestId { get; set; }
 
